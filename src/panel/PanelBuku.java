@@ -3,8 +3,8 @@ package panel;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
-import src.Buku;
-import src.FileHelper;
+import core.Buku;
+import core.FileHelper;
 
 import java.awt.*;
 import java.util.ArrayList;

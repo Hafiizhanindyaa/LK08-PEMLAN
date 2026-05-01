@@ -3,8 +3,8 @@ package panel;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
-import src.FileHelper;
-import src.Pegawai;
+import core.FileHelper;
+import core.Pegawai;
 
 import java.awt.*;
 import java.util.ArrayList;
